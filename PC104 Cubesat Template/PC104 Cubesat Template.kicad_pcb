@@ -336,7 +336,7 @@
     (pad "50" thru_hole oval locked (at 2.54 60.96 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp f3490fa5-5a27-423b-af60-53609669542c))
     (pad "51" thru_hole oval locked (at 0 63.5 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp b6270a28-e0d9-4655-a18a-03dbf007b940))
     (pad "52" thru_hole oval locked (at 2.54 63.5 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 8322f275-268c-4e87-a69f-4cfbf05e747f))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x26_P2.54mm_Vertical.wrl"
+    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x26_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -440,7 +440,7 @@
     (pad "50" thru_hole oval locked (at 2.54 60.96 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 9702d639-3b1f-4825-8985-b32b9008503d))
     (pad "51" thru_hole oval locked (at 0 63.5 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp ec9e24d8-d1c5-40e2-9812-dc315d05f470))
     (pad "52" thru_hole oval locked (at 2.54 63.5 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a06e8e78-f567-42e6-b645-013b1073ca31))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x26_P2.54mm_Vertical.wrl"
+    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x26_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
