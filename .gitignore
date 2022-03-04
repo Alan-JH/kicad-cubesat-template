@@ -31,7 +31,7 @@ fp-info-cache
 *.zip
 
 # Backup directory
-'PC104 Cubesat Template-backups'
+'PC104 Cubesat Template'/'PC104 Cubesat Template-backups'
 
 # Contents of Out directory
-Out/*
+'PC104 Cubesat Template'/Out/*
