@@ -29,3 +29,9 @@ fp-info-cache
 
 # Gerber ZIP files
 *.zip
+
+# Backup directory
+'PC104 Cubesat Template-backups'
+
+# Contents of Out directory
+Out/*
